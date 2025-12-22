@@ -44,3 +44,10 @@ $\ce{CH4 + 2O2 -> CO2 + 2H2O}$
 
 ---
 
+### 视频名称：苯酚的显色反应
+视频：<video src="https://ai.qianshou-ai.com/fs//苯酚的显色反应.mp4" controls></video>
+
+---
+
+- 优点：原理正确，利用\( p = \frac{F}{S} \)（大气压力等于拉力、吸盘面积与压强的关系）计算大气压。
+
